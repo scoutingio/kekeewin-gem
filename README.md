@@ -1,9 +1,19 @@
 # Kekeewin
 
-API wrapper for Kekeewin on Scouting.io.
+API wrapper for Kekeewin on Scouting.io. Kekeewin is a central database for all things Scouting related. Currently it contains the following resources:
+
+- Regions
+- Areas
+- Councils
+- Districts
+- Lodges
+- Chapters
+- Merit Badges
+- Positions
+- Training Courses
 
 ```
-Such things as are generally understood by the tribe.
+Kekeewin - Such things as are generally understood by the tribe.
 ```
 
 ## Installation
