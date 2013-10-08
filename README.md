@@ -2,6 +2,9 @@
 
 API wrapper for Kekeewin on Scouting.io.
 
+```
+Such things as are generally understood by the tribe.
+```
 
 ## Installation
 
